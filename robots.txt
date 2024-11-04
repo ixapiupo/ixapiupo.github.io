@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ixapiupo.github.io/HtE/sitemap_index.txt
+Sitemap: https://ixapiupo.github.io/MUc/sitemap_index.txt
+Sitemap: https://ixapiupo.github.io/UkF/sitemap_index.txt
+Sitemap: https://ixapiupo.github.io/vuR/sitemap_index.txt
